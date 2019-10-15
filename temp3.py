@@ -1,5 +1,4 @@
-a=1
-i=2
-for c in range (1,10,1):
-    a=i*a
-    print(a, end=" ")
+с=input("Введите число:")
+for i in range(1,10)
+    q=c**i-1
+print(q)
